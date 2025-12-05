@@ -1,0 +1,4 @@
+Test.public_12: in01: i0: [-inf, inf]
+Test.public_12: in02: i0: [-inf, inf]
+Test.public_12: in03: i0: [-inf, inf]
+Test.public_12: in04: i0: [-inf, inf]

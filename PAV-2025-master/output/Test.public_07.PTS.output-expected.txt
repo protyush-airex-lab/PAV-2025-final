@@ -1,0 +1,52 @@
+Test.public_07: in02: $r0: {new01}
+Test.public_07: in03: $r0: {new01}
+Test.public_07: in04: $r0: {new01}
+Test.public_07: in04: $r1: {new03}
+Test.public_07: in05: $r0: {new01}
+Test.public_07: in05: $r1: {new03}
+Test.public_07: in06: $r0: {new01}
+Test.public_07: in06: $r1: {new03}
+Test.public_07: in07: $r0: {new01}
+Test.public_07: in07: $r1: {new03}
+Test.public_07: in07: new03.f: {new01}
+Test.public_07: in08: $r0: {new01}
+Test.public_07: in08: $r1: {new03}
+Test.public_07: in09: $r0: {new01}
+Test.public_07: in09: $r1: {new03}
+Test.public_07: in09: new03.f: {new01, new03}
+Test.public_07: in10: $r0: {new01}
+Test.public_07: in10: $r1: {new03}
+Test.public_07: in10: $r2: {new01, new03}
+Test.public_07: in10: new03.f: {new01, new03}
+Test.public_07: in11: $r0: {new01}
+Test.public_07: in11: $r1: {new03}
+Test.public_07: in11: $r2: {new01}
+Test.public_07: in11: new03.f: {new01, new03}
+Test.public_07: in12: $r0: {new01}
+Test.public_07: in12: $r1: {new03}
+Test.public_07: in12: $r2: {new01}
+Test.public_07: in12: $r3: {new01, new03}
+Test.public_07: in12: new03.f: {new01, new03}
+Test.public_07: in13: $r0: {new01}
+Test.public_07: in13: $r1: {new03}
+Test.public_07: in13: $r2: {new01}
+Test.public_07: in13: $r3: {new01, new03}
+Test.public_07: in13: new01.f: {new01, new03}
+Test.public_07: in13: new03.f: {new01, new03}
+Test.public_07: in14: $r0: {new01}
+Test.public_07: in14: $r1: {new03}
+Test.public_07: in14: $r2: {new03}
+Test.public_07: in14: new03.f: {new01, new03}
+Test.public_07: in15: $r0: {new01}
+Test.public_07: in15: $r1: {new03}
+Test.public_07: in15: $r2: {new01, new03}
+Test.public_07: in15: $r3: {new01, new03}
+Test.public_07: in15: new01.f: {new01, new03}
+Test.public_07: in15: new03.f: {new01, new03}
+Test.public_07: in16: $r0: {new01}
+Test.public_07: in16: $r1: {new03}
+Test.public_07: in16: $r2: {new01, new03}
+Test.public_07: in16: $r3: {new01, new03}
+Test.public_07: in16: $r4: {new01, new03}
+Test.public_07: in16: new01.f: {new01, new03}
+Test.public_07: in16: new03.f: {new01, new03}

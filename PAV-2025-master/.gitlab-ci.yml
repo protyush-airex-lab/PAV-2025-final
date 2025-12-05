@@ -1,0 +1,18 @@
+image: jelastic/maven:3.9.5-openjdk-21
+stages:
+  - build
+  - run
+
+maven-build:
+  stage: build
+  artifacts:
+    untracked: true
+  script:
+    - mvn clean package
+
+maven-run:
+  stage: run
+  dependencies:
+    - maven-build
+  script:
+    - mvn exec:java

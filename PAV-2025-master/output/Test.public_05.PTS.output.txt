@@ -1,0 +1,12 @@
+Test.public_05: in02: r0: {new01}
+Test.public_05: in03: r0: {new01}
+Test.public_05: in03: r1: {new02}
+Test.public_05: in05: r0: {new01}
+Test.public_05: in05: r1: {new02}
+Test.public_05: in05: r2: {new01}
+Test.public_05: in07: r0: {new01}
+Test.public_05: in07: r1: {new02}
+Test.public_05: in07: r2: {new02}
+Test.public_05: in08: r0: {new01}
+Test.public_05: in08: r1: {new02}
+Test.public_05: in08: r2: {new01, new02}

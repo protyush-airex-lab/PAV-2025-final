@@ -1,0 +1,15 @@
+Test.public_02: in02: $r0: {new01}
+Test.public_02: in03: $r0: {new01}
+Test.public_02: in04: $r0: {new01}
+Test.public_02: in04: $r1: {new03}
+Test.public_02: in05: $r0: {new01}
+Test.public_02: in05: $r1: {new03}
+Test.public_02: in06: $r0: {new01}
+Test.public_02: in06: $r1: {new03}
+Test.public_02: in06: new03.f: {new03}
+Test.public_02: in08: $r0: {new01}
+Test.public_02: in08: $r1: {new03}
+Test.public_02: in08: new03.f: {new01, new03}
+Test.public_02: in10: $r0: {new01}
+Test.public_02: in10: $r1: {new03}
+Test.public_02: in10: new03.f: {new03, null}

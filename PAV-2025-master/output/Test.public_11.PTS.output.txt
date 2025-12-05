@@ -1,0 +1,37 @@
+Test.public_11: in01: r0: {new00}
+Test.public_11: in02: r0: {new00}
+Test.public_11: in02: r1: {new01}
+Test.public_11: in03: r0: {new00}
+Test.public_11: in03: r1: {new01}
+Test.public_11: in04: r0: {new00}
+Test.public_11: in04: r1: {new01}
+Test.public_11: in06: r0: {new00}
+Test.public_11: in06: r1: {new01}
+Test.public_11: in06: r6: {new00}
+Test.public_11: in08: r0: {new00}
+Test.public_11: in08: r1: {new01}
+Test.public_11: in08: r6: {new01}
+Test.public_11: in09: r0: {new00}
+Test.public_11: in09: r1: {new01}
+Test.public_11: in09: r6: {new00, new01}
+Test.public_11: in11: r0: {new00}
+Test.public_11: in11: r1: {new01}
+Test.public_11: in11: r6: {new00, new01}
+Test.public_11: in12: r0: {new00}
+Test.public_11: in12: r1: {new01}
+Test.public_11: in12: r6: {new00, new01}
+Test.public_11: in13: r0: {new00}
+Test.public_11: in13: r1: {new01}
+Test.public_11: in13: r6: {new00, new01}
+Test.public_11: in14: r0: {new00}
+Test.public_11: in14: r1: {new01}
+Test.public_11: in14: r6: {new00, new01}
+Test.public_11: in16: r0: {new00}
+Test.public_11: in16: r1: {new01}
+Test.public_11: in16: r6: {new00, new01}
+Test.public_11: in17: r0: {new00}
+Test.public_11: in17: r1: {new01}
+Test.public_11: in17: r6: {new00, new01}
+Test.public_11: in18: r0: {new00}
+Test.public_11: in18: r1: {new01}
+Test.public_11: in18: r6: {new00, new01}

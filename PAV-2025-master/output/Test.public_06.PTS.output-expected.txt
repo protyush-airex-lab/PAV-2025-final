@@ -1,0 +1,21 @@
+Test.public_06: in01: $r0: {new00}
+Test.public_06: in02: $r0: {new00}
+Test.public_06: in03: $r0: {new00}
+Test.public_06: in03: $r1: {new02}
+Test.public_06: in04: $r0: {new00}
+Test.public_06: in04: $r1: {new02}
+Test.public_06: in05: $r0: {new00}
+Test.public_06: in05: $r1: {new02}
+Test.public_06: in06: $r0: {new00}
+Test.public_06: in06: $r1: {new02}
+Test.public_06: in06: r2: {new00}
+Test.public_06: in07: $r0: {new00}
+Test.public_06: in07: $r1: {new02}
+Test.public_06: in08: $r0: {new00}
+Test.public_06: in08: $r1: {new02}
+Test.public_06: in08: r2: {new00, new02}
+Test.public_06: in09: $r0: {new00}
+Test.public_06: in09: $r1: {new02}
+Test.public_06: in09: r2: {new00, new02}
+Test.public_06: in09: new00.f: {new00}
+Test.public_06: in09: new02.f: {new00}
